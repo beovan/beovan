@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm TRƯƠNG VĂN GIÁP</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h1 align="center">Hi 👋</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beovan&label=Profile%20views&color=0e75b6&style=flat" alt="beovan" /> </p>
 
