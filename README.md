@@ -23,7 +23,7 @@
 <section>
   <h3>Projects</h3>
   <ul>
-    <li>Source Code:[ <a href=""/>](https://github.com/beovan/Laravel-pet-store)</li>
+    <li>Source Code:<a href="https://github.com/beovan/Laravel-pet-store"/>https://github.com/beovan/Laravel-pet-store</li>
     <li>Type: Personal Project</li>
     <li>Description: A pet shop e-commerce project built with Laravel, MySQL, and Blade templating.</li>
   </ul>
