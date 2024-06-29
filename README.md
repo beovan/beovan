@@ -45,7 +45,7 @@
   <section>
     <h3>Achievements</h3>
     <p>Participated in the semi-finals of the AI Hackathon 2024: </p>
-![image](https://github.com/beovan/beovan/assets/85023866/b84d62f3-3e62-462c-bdea-c8d0a3f10772)
+   <img src="https://github.com/beovan/beovan/blob/main/FPT%20EDU%20HAKATHON%202024.jpg">
     <p>Students of Information Technology at FPT Polytechnic Tay Nguyen College participated in the 2024 Dak Lak Province Self-made Training Device Competition - <a href="https://feji.us/fuzh46">Read more</a></p>
 
   </section>
