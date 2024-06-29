@@ -36,23 +36,6 @@
    <li>Description: This project is a patient booking system built with a modern tech stack to streamline appointment scheduling.
 
 **Technologies:** ReactJS + Redux (Frontend), HTML/CSS-SCSS/Bootstrap4 (Reactstrap) (Frontend UI), Node.js (Express) (Backend), MySQL (Sequelize) (Database)
-
-**Key Features:**
-
-* **User-friendly interface:** Patients can easily search for available appointments based on date, time, and doctor preferences using a responsive and visually appealing UI built with ReactJS, HTML/CSS preprocessed with SCSS for maintainability, and Bootstrap4 for rapid development.
-* **Seamless scheduling:** Patients can book appointments directly within the application, with real-time availability displayed and clear confirmation messages sent after booking.
-* **Doctor management:** Doctors can access and manage their appointment schedules through a dedicated dashboard or interface within the system. (Optional, depending on project scope)
-* **Secure data storage:** Patient information and appointment details are securely stored in a MySQL database powered by Sequelize, an object-relational mapper (ORM) that simplifies data interaction between the Node.js backend and the database.
-
-**Additional Considerations (Optional):**
-
-* Integration with patient portals or healthcare information systems (optional).
-* Reminder notifications for upcoming appointments (via email or SMS).
-* Cancellation and rescheduling functionalities for appointments.
-
-This project demonstrates proficiency in building a full-stack application with ReactJS, Redux for state management, Node.js, and Express for robust backend development. The use of MySQL and Sequelize ensures efficient data management and retrieval.
-
-**Please note:** This is a general template. Replace the bracketed text with specific details about your project, such as unique features or design choices. 
 </li>  
   </ul>
 </section>
