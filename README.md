@@ -32,7 +32,11 @@
 <section>
   <h3>Projects (continued)</h3>  <ul>
     <li>**Project Title 2:** (Replace with actual title)</li>
-    <li>Link: <a href="https://your-project-link-2">Project Link 2</a></li>  <li>GitHub: <a href="https://github.com/yourusername/project2">Project2 GitHub Repo</a></li>  <li>Type: Team Project</li>  <li>Description: Briefly describe Project 2 here.</li>  </ul>
+    <li>Link: <a href="https://your-project-link-2">Project Link 2</a></li>  
+   <li>GitHub: <a href="https://github.com/yourusername/project2">Project2 GitHub Repo</a></li>  
+   <li>Type: Team Project</li>  
+   <li>Description: Briefly describe Project 2 here.</li>  
+  </ul>
 </section>
 
 <section>
