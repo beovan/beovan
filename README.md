@@ -1,14 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beovan&label=Profile%20views&color=0e75b6&style=flat" alt="beovan" /> </p>
 
-<h1 align="center">Trương Văn Giáp</h1>
-<h1 align="center">BACK-END / FRONT-END DEVELOPER</h1>
-<h1 align="center">TEL: 0945914717 | Email: truongvangiap04@gmail.com</h1>
+<h1 align="center">Truong Van Giap</h1>
+<h2 align="center">BACK-END / FRONT-END DEVELOPER</h1>
+<h3 align="center">TEL: 0945914717 | Email: truongvangiap04@gmail.com</h1>
 
-
-<h3 align="left">A web development student focusing on both front-end and back-end development. Possesses basic knowledge in developing front-end interfaces with ReactJS and back-end services with Laravel and ExpressJS (REST API). Enthusiastic about learning new technologies and improving skills to keep up with industry trends. Seeking opportunities to apply academic knowledge in a professional setting and gain hands-on experience.
-
+<h1  align="left" >Profile</h1>
+<h3 align="left">I'm a web development student with my sights set on building awesome websites! I'm not just focused on the flashy user interface (think ReactJS) you see when you visit a site, but also the powerful engine that makes it all work behind the scenes (think Laravel and ExpressJS) . I'm ready to put my skills to the test and ready to learn even more in a professional setting.
 </h3>
-
+<h1  align="left" >Key skill</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
