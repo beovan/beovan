@@ -20,16 +20,27 @@
     <p>FPT Polytechnic Tay Nguyen</p>
   </section>
 
-  <section>
-    <h3>Projects</h3>
-    <ul>
-      <li>Link:</li>
-      <li>GitHub:</li>
-      <li>Type: Personal Project</li>
-      <li>Description: An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.</li>
-     
-    </ul>
-  </section>
+<section>
+  <h3>Projects</h3>
+  <ul>
+    <li>Link:</li>
+    <li>GitHub:</li>
+    <li>Type: Personal Project</li>
+    <li>Description: An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.</li>
+  </ul>
+</section>
+
+<section>
+  <h3>Projects (continued)</h3>  <ul>
+    <li>**Project Title 2:** (Replace with actual title)</li>
+    <li>Link: <a href="https://your-project-link-2">Project Link 2</a></li>  <li>GitHub: <a href="https://github.com/yourusername/project2">Project2 GitHub Repo</a></li>  <li>Type: Team Project</li>  <li>Description: Briefly describe Project 2 here.</li>  </ul>
+</section>
+
+<section>
+  <h3>Projects (continued)</h3>  <ul>
+    <li>**Project Title 3:** (Replace with actual title)</li>
+    <li>Link: <a href="https://your-project-link-3">Project Link 3</a></li>  <li>GitHub: <a href="https://github.com/yourusername/project3">Project3 GitHub Repo</a></li>  <li>Type: Personal Project</li>  <li>Description: Briefly describe Project 3 here.</li>  </ul>
+</section>
 
   <section>
     <h3>Achievements</h3>
