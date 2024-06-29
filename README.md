@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beovan&label=Profile%20views&color=0e75b6&style=flat" alt="beovan" /> </p>
+
+<h1 align="center">Trương Văn Giáp</h1>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
