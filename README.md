@@ -19,7 +19,7 @@
     <h3>Education</h3>
     <p>FPT Polytechnic Tay Nguyen</p>
   </section>
-
+<h1>Projects</h1>
 <section>
   <h3>Projects</h3>
   <ul>
@@ -44,7 +44,10 @@
 
   <section>
     <h3>Achievements</h3>
-    <p>Participated in the semi-finals of the AI Hackathon 2024 - <a href="https://caodang.fpt.edu.vn/...">Read More</a></p>
+    <p>Participated in the semi-finals of the AI Hackathon 2024: </p>
+![image](https://github.com/beovan/beovan/assets/85023866/b84d62f3-3e62-462c-bdea-c8d0a3f10772)
+    <p>Students of Information Technology at FPT Polytechnic Tay Nguyen College participated in the 2024 Dak Lak Province Self-made Training Device Competition - <a href="https://feji.us/fuzh46">Read more</a></p>
+
   </section>
 
 
