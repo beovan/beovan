@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beovan&label=Profile%20views&color=0e75b6&style=flat" alt="beovan" /> </p>
 
 <h1 align="center">Truong Van Giap</h1>
 <h2 align="center">BACK-END / FRONT-END DEVELOPER</h1>
