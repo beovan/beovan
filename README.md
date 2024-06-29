@@ -9,7 +9,7 @@
  <section>
     <h3>Skills</h3>
     <ul>
-      <li>Programming Languages: HTML, CSS, JavaScript, NodeJS, PHP </li>
+      <li>Programming Languages: HTML, CSS,SASS, JavaScript, NodeJS, PHP </li>
       <li>Frameworks: ReactJS, ExpressJS, Laravel </li>
       <li>Tools: Git, GitHub, VSCode, Postman </li>
     </ul>
@@ -23,10 +23,9 @@
 <section>
   <h3>Projects</h3>
   <ul>
-    <li>Link:</li>
-    <li>GitHub:</li>
+    <li>Source Code: <a href="https://github.com/beovan/Laravel-pet-store"/></li>
     <li>Type: Personal Project</li>
-    <li>Description: An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.</li>
+    <li>Description: A pet shop e-commerce project built with Laravel, MySQL, and Blade templating.</li>
   </ul>
 </section>
 
@@ -47,7 +46,6 @@
     <p>Participated in the semi-finals of the AI Hackathon 2024: </p>
    <img src="https://github.com/beovan/beovan/blob/main/FPT%20EDU%20HAKATHON%202024.jpg">
     <p>Students of Information Technology at FPT Polytechnic Tay Nguyen College participated in the 2024 Dak Lak Province Self-made Training Device Competition - <a href="https://feji.us/fuzh46">Read more</a></p>
-
   </section>
 
 
