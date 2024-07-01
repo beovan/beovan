@@ -17,7 +17,7 @@
 
   <section>
     <h3>Education</h3>
-    <p>FPT Polytechnic Tay Nguyen</p>
+    <p>FPT Polytechnic Tay Nguyen 2022-2024</p>
   </section>
 <h1>Projects</h1>
 <section>
@@ -42,8 +42,11 @@
 
 <section>
   <h3>trainning_equipment_2024 </h3>  <ul>
-    <li>**Project Title 3:** (Replace with actual title)</li>
-    <li>Link: <a href="https://your-project-link-3">Project Link 3</a></li>  <li>GitHub: <a href="https://github.com/yourusername/project3">Project3 GitHub Repo</a></li>  <li>Type: Personal Project</li>  <li>Description: Briefly describe Project 3 here.</li>  </ul>
+   <li>GitHub: <a href="https://github.com/hptprobook/trainning_equipment_2024">https://github.com/hptprobook/trainning_equipment_2024</a></li>  
+   <li>Type: Team Project</li>  
+   <li>Description: A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
+</li>
+  </ul>
 </section>
 
   <section>
