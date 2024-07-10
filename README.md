@@ -38,6 +38,16 @@
 </section>
 
 <section>
+  <h3>E-commerce Website</h3>  
+<ul dir="auto">
+<li><em>Link:</em> <a href="https://3000webapp.vercel.app" rel="nofollow">https://3000webapp.vercel.app</a></li>
+<li><em>GitHub:</em> <a href="https://github.com/hptprobook/3000">https://github.com/hptprobook/3000</a></li>
+<li><em>Type:</em> Team Project</li>
+<li><em>Role</em>: Frontend</li>
+<li><em>Description:</em> An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.</li>
+</ul>
+</section>
+<section>
   <h3>Support Learning IT</h3>  <ul>
    <li>GitHub: <a href="https://github.com/hptprobook/trainning_equipment_2024">https://github.com/hptprobook/trainning_equipment_2024</a></li>  
    <li>Type: Team Project</li> 
