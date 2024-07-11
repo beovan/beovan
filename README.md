@@ -72,7 +72,9 @@
     <p>Participated in the semi-finals of the AI Hackathon 2024: </p>
    <img src="https://github.com/beovan/beovan/blob/main/FPT%20EDU%20HAKATHON%202024.jpg">
     <p>Students of Information Technology at FPT Polytechnic Tay Nguyen College participated in the 2024 Dak Lak Province Self-made Training Device Competition - <a href="https://feji.us/fuzh46">Read more</a></p>
-       <p>FPT Polytechnic Tay Nguyen Students Achieve High Scores in MOSWC 2024 in Da Nang - <a href="https://caodang.fpt.edu.vn/tin-tuc-poly/tin-tay-nguyen/sinh-vien-fpt-polytechnic-tay-nguyen-dat-diem-cao-trong-ky-thi-moswc-2024-tai-da-nang.html?fbclid=IwZXh0bgNhZW0CMTEAAR3y_vH7d_xb--O4c4bH-4ucmhO2-mCVWgdqD2BdH3ey4aRXEPYZiTpYxyk_aem_XZ-6R2bJIGIEK506zKmdrg">Read more</a></p>
+       <p>FPT Polytechnic Tay Nguyen Students Achieve High Scores in MOSWC 2024 in Da Nang - 
+       <img src="https://github.com/beovan/beovan/blob/main/MOS.jpg">
+ <a href="https://caodang.fpt.edu.vn/tin-tuc-poly/tin-tay-nguyen/sinh-vien-fpt-polytechnic-tay-nguyen-dat-diem-cao-trong-ky-thi-moswc-2024-tai-da-nang.html?fbclid=IwZXh0bgNhZW0CMTEAAR3y_vH7d_xb--O4c4bH-4ucmhO2-mCVWgdqD2BdH3ey4aRXEPYZiTpYxyk_aem_XZ-6R2bJIGIEK506zKmdrg">Read more</a></p>
 
   </section>
 
